@@ -1,5 +1,5 @@
 {
-    "name": "Ttiiwasherefirst2/laravel-multimail",
+    "name": "ttiiwasherefirst2/laravel-multimail",
     "description": "A package to send mails easily from multiple mail accounts with Laravel",
     "keywords": ["multiple providers", "laravel", "emails"],
     "license": "MIT",
